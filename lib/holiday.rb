@@ -79,3 +79,6 @@ holiday_hash.colllect do |season, holiday|
     if supplies == "bbq"
       holiday
 end
+end
+end
+end
